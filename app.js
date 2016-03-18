@@ -7,7 +7,7 @@ var bodyParser = require('body-parser');
 var http = require('http');
 var users = require('./routes/users');
 
-var demo = require('./routes/demo');
+var demo = require('./routes/exviewapi');
 
 var app = express();
 
